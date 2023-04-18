@@ -1,6 +1,8 @@
 ## Template-Vue
 
-Vue Template for my future projects with :
+Vue template for my future projects.
+<br>
+Dependencies & Extern Installation/Configuration: 
 - SASS
 - TypeScript
 - Babel
@@ -9,6 +11,8 @@ Vue Template for my future projects with :
 - Prettier
 - ESlint
 - Font Awesome
+- Nav Active
+- router
 
 # If you want to use it : 
 
