@@ -1,4 +1,16 @@
-# template-vue
+## Template-Vue
+
+Vue Template for my future projects with :
+- SASS
+- TypeScript
+- Babel
+- Router
+- VueUX
+- Prettier
+- ESlint
+- Font Awesome
+
+# If you want to use it : 
 
 ## Project setup
 ```
